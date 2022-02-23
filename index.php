@@ -13,8 +13,10 @@
         //This is a comment
         echo "Hi, there" ;
         echo "Hi, there!!" ;
+        echo "Hi, there!!" ;
     ?>
     <p>This is a paragraph</p>
 
 </body>
 </html>
+ß
