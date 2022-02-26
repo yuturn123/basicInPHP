@@ -16,9 +16,14 @@
         echo "Hi, there!!" ;
         echo "Hi, there!!!!!" ;
         echo "Hi, there!!!!!" ;
+
+        $a="Hello";
+        $b="world";
+
+        echo "$a, $b";
+
     ?>
     <p>This is a paragraph</p>
 
 </body>
 </html>
-ß
