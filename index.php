@@ -12,6 +12,7 @@
     <?php
         //This is a comment
         echo "Hi, there";
+        echo "Hi, there";
         echo "Hi, there!!";
         echo "Hi, there!!";
         echo "Hi, there!!!!!";
